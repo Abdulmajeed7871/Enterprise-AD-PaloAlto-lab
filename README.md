@@ -149,7 +149,7 @@ This demonstrates the core concept the whole segmentation design rests on: defau
 
 ## Troubleshooting
 
-Most of the real learning in this project happened while diagnosing problems, not during initial setup. VLAN/trunk configuration, firewall zone/policy behavior, and Windows/AD connectivity issues all came up along the way. I also attempted a Palo Alto User-ID integration with Active Directory that I was not able to get working. I also encountered a Traffic Monitor logging issue while using an unlicensed PA-VM.
+Most of the real learning in this project happened while diagnosing problems, not during initial setup. VLAN/trunk configuration, firewall zone/policy behavior, and Windows/AD connectivity issues all came up along the way. I also attempted a Palo Alto User-ID integration with Active Directory that I was not able to get working, and encountered a Traffic Monitor logging issue while using an unlicensed PA-VM.
 
 Full write-up, including commands and additional screenshots: [`docs/troubleshooting.md`](docs/troubleshooting.md)
 
